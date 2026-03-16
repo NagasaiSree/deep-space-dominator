@@ -1,7 +1,7 @@
 // frontend/script.js - WORKING VERSION
 
 // Use the exact URL that worked in curl
-const API_BASE = 'https://deep-space-dominator-production.up.railway.app/';
+const API_BASE = 'https://deep-space-dominator-production.up.railway.app';
 
 // Update clock
 function updateClock() {
